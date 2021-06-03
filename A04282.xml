@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties speach in the vpper house of Parliament, on Munday the 26. of March, 1621</title>
+            <title>Speeches. 1621-03-26</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A04282</idno><idno type="EEBO-CITATION">99843289</idno>
+  <idno type="VID">8006</idno>
+  <idno type="EEBO-PROQUEST">2240852073</idno>
+  <idno type="STC">STC 14399</idno>
+  <idno type="STC">ESTC S107590</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99843289e"/>
+            <note>(EEBO-TCP ; phase 2, no. A04282)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 8006)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 740:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties speach in the vpper house of Parliament, on Munday the 26. of March, 1621</title>
+                  <title>Speeches. 1621-03-26</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bonham Norton and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1621.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴ C² .</note>
+                  <note>The first leaf is blank except for signature-mark "A" within part of an ornament.</note>
+                  <note>Running title reads: His Maiesties speach in Parliament.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1603-1625 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:8006:1"/>
+            <pb facs="tcp:8006:1"/>
+            <p>HIS MAIESTIES SPEACH IN THE Vpper House of Parliament, On Munday the 26. of March, 1621.</p>
+            <figure>
+               <figDesc>floral illustration</figDesc>
+            </figure>
+            <p>LONDON Printed by BONHAM NORTON and IOHN BILL, Printers to the KINGS most Excellent MAIESTIE. 1621.</p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:8006:2"/>
+            <p>
+               <figure>
+                  <head>I R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>English royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="speech">
+            <pb facs="tcp:8006:2"/>
+            <head>HIS MAIESTIES <hi>Speach in Parliament.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>Y Lords:</salute>
+            </opener>
+            <p>the last time I came hi<g ref="char:EOLhyphen"/>ther, my errand was to informe you (as well as my memo<g ref="char:EOLhyphen"/>ry could serue mee, of things so long passed) of the verity of my proceedings, and the cautions vsed by me in the passing of those Pa<g ref="char:EOLhyphen"/>tents, which are now in question be<g ref="char:EOLhyphen"/>fore you; to the effect, that they might not bee abused in the execution: and this I did by way of declaration. But now I am come (vnderstanding the time of your censure to draw neere) to expresse my readinesse to put in execu<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:8006:3"/>(which is the life of the Law) those things, which yee are to sentence (for euen the Law it selfe is a dead letter without execution) for which office God hath appointed me in these King<g ref="char:EOLhyphen"/>domes. And though I assure my selfe, that my former behauiour, in all the course of my life, hath made mee well knowne for a iust King; yet in this spe<g ref="char:EOLhyphen"/>ciall case I thought fit to expresse my owne intentions, out of my owne mouth, for punishment of things com<g ref="char:EOLhyphen"/>plained of. The first proofe whereof I haue giuen by the diligent search I cau<g ref="char:EOLhyphen"/>sed to bee made after the person of S<seg rend="sup">r</seg>. <hi>Giles Mompesson,</hi> who though hee were fled, yet my Proclamation pursued him instantly: and as I was earnest in that, so will I be, to see your Sentence against him put in execution.</p>
+            <p>Two reasons mooue mee to bee ear<g ref="char:EOLhyphen"/>nest in the execution of what yee are to Sentence at this time: First, that
+<pb facs="tcp:8006:3"/>dutie I owe to God, who hath made me a King, and tyed mee to the care of go<g ref="char:EOLhyphen"/>uernement, by that politike mariage be<g ref="char:EOLhyphen"/>twixt me and my people. For I doe as<g ref="char:EOLhyphen"/>sure you in the heart of an honest man, and by the faith of a Christian King (which both ye and all the world know me to be) had these things beene com<g ref="char:EOLhyphen"/>plained of to me before the Parliament, I would haue done the office of a iust King, and out of Parliament haue pu<g ref="char:EOLhyphen"/>nished them as seuerely, and peraduen<g ref="char:EOLhyphen"/>ture more, then ye now intend to doe.</p>
+            <p>But now that they are discouered to me in Parliament, I shall be as ready in this way, as I should haue beene in the other. For (I confesse) I am ashamed (these things prouing so, as they are ge<g ref="char:EOLhyphen"/>nerally reported to bee) that it was not my good fortune to be the only Author of the reformation and punishment of them, by some ordinary Courts of Iu<g ref="char:EOLhyphen"/>stice. Neuerthelesse, since these things
+<pb facs="tcp:8006:4"/>are now discouered by Parliament, which before I knew not of, nor could so well be discouered otherwise, in re<g ref="char:EOLhyphen"/>gard of that representatiue body of the Kingdome, which comes from all parts of the Countrey: I will be neuer a whit the slower to doe my part for the exe<g ref="char:EOLhyphen"/>cution. For, as many of you that are heere haue heard me often say, so I will still say: So precious vnto me is the pub<g ref="char:EOLhyphen"/>like good, that no priuate person what<g ref="char:EOLhyphen"/>soeuer, were he neuer so deere vnto me, shall be so respected by me, by many de<g ref="char:EOLhyphen"/>grees, as the publike good, not onely of the whole Common-wealth, but euen of any particular Corporation that is a member of it: and I hope, that ye, my Lords, will doe me that right, to publish to my people this my heart and pur<g ref="char:EOLhyphen"/>pose.</p>
+            <p>The second reason is, that I intend not to derogate or infringe any of the Liberties or Priuiledges of this House,
+<pb facs="tcp:8006:4"/>but rather to fortifie and strengthen them. For neuer any King hath done so much for the Nobilitie of England, as I haue done, and will euer bee ready to doe. And whatsoeuer I shall now say or deliuer vnto you as my thought, yet when I haue sayd what I thinke, I will afterwards freely leaue the iudge<g ref="char:EOLhyphen"/>ment wholly to your House. I know ye will doe nothing, but what the like hath beene done before: and I pray you be not iealous, that I will abridge you in any thing that hath beene vsed. For whatsoeuer the precedents in times of good gouernement can warrant, I will allow. For I acknowledge this to bee the supreame Court of Iustice, wherein I am euer present by representation. And in this yee may bee the better sa<g ref="char:EOLhyphen"/>tisfied by my owne presence comming diuers times amongst you: neither can I giue you any greater assurance or bet<g ref="char:EOLhyphen"/>ter pledge of this my purpose, then that
+<pb facs="tcp:8006:5"/>are now discouered by Parliament, which before I knew not of, nor could so well be discouered otherwise, in re<g ref="char:EOLhyphen"/>gard of that representatiue body of the Kingdome, which comes from all parts of the Countrey: I will be neuer a whit the slower to doe my part for the exe<g ref="char:EOLhyphen"/>cution. For, as many of you that are heere haue heard me often say, so I will still say: So precious vnto me is the pub<g ref="char:EOLhyphen"/>like good, that no priuate person what<g ref="char:EOLhyphen"/>soeuer, were he neuer so deere vnto me, shall be so respected by me, by many de<g ref="char:EOLhyphen"/>grees, as the publike good, not onely of the whole Common-wealth, but euen of any particular Corporation that is a member of it: and I hope, that ye, my Lords, will doe me that right, to publish to my people this my heart and pur<g ref="char:EOLhyphen"/>pose.</p>
+            <p>The second reason is, that I intend not to derogate or infringe any of the Liberties or Priuiledges of this House,
+<pb facs="tcp:8006:5"/>but rather to fortifie and strengthen them. For neuer any King hath done so much for the Nobilitie of England, as I haue done, and will euer bee ready to doe. And whatsoeuer I shall now say or deliuer vnto you as my thought, yet when I haue sayd what I thinke, I will afterwards freely leaue the iudge<g ref="char:EOLhyphen"/>ment wholly to your House. I know ye will doe nothing, but what the like hath beene done before: and I pray you be not iealous, that I will abridge you in any thing that hath beene vsed. For whatsoeuer the precedents in times of good gouernement can warrant, I will allow. For I acknowledge this to bee the supreame Court of Iustice, wherein I am euer present by representation. And in this yee may bee the better sa<g ref="char:EOLhyphen"/>tisfied by my owne presence comming diuers times amongst you: neither can I giue you any greater assurance or bet<g ref="char:EOLhyphen"/>ter pledge of this my purpose, then that
+<pb facs="tcp:8006:6"/>I haue done you the honour, to set my only Sonne among you, and hope that yee with him shall haue the meanes to make this the happiest Parliament, that euer was in England.</p>
+            <p>This I professe, and take comfort in, that the House of Commons at this time haue shewed greater loue, and vsed me with more respect in all their pro<g ref="char:EOLhyphen"/>ceedings, then euer any House of Com<g ref="char:EOLhyphen"/>mons haue heeretofore done to mee, or (I thinke) to any of my Predecessors. As for this House of yours, I haue al<g ref="char:EOLhyphen"/>wayes found it respectiue to me, and ac<g ref="char:EOLhyphen"/>cordingly doe I, and euer did fauour you, as yee well deserued. And I hope, it will bee accounted a happinesse for you, that my Sonne doeth now sit a<g ref="char:EOLhyphen"/>mongst you, who when it shall please God, to set him in my place, will then remember, that he was once a Member of your House, and so bee bound to maintaine all your lawfull priuiledges,
+<pb facs="tcp:8006:6"/>and like the better of you all the dayes of his life. But because the world at this time talkes so much of bribes, I haue iust cause to feare, the whole body of this House hath bribed him to bee a good instrument for you vpon all oc<g ref="char:EOLhyphen"/>casions: hee doeth so good offices in all his reports to me, both for the House in generall, and euery one of you in par<g ref="char:EOLhyphen"/>ticular.</p>
+            <p>And the like I may say of one that sittes there <hi>(Buckingham)</hi> he hath beene so ready vpon all occasions to do good offices, both for the House in generall, and euery member thereof in particu<g ref="char:EOLhyphen"/>lar. One proofe thereof, I hope my Lo. of <hi>Arundell</hi> hath alreadie witnes<g ref="char:EOLhyphen"/>sed vnto you, in his report made vnto you of my answer, touching the priui<g ref="char:EOLhyphen"/>ledges of the Nobilitie, how earnestly he spake vnto me in that matter.</p>
+            <p>Now, my Lords, the time drawes neere of your recesse: whether forma<g ref="char:EOLhyphen"/>litie
+<pb facs="tcp:8006:7"/>will leaue you time for proceeding now to Sentence against all, or any of the persons now in question, I know not. But for my part, since both Hou<g ref="char:EOLhyphen"/>ses haue dealt so louingly and freelie with me, in giuing me, as a free gift, two Subsidies, in a more louing maner, then hath beene giuen to any King before, and so accepted by mee; and since I cannot yet retribute by a generall Par<g ref="char:EOLhyphen"/>don, which hath by forme vsually beene reserued to the end of a Parlia<g ref="char:EOLhyphen"/>ment: the least I can doe (which I can forbeare no longer) is to do something in present, for the ease and good of my people.</p>
+            <p>Three Patents at this time haue bene complained of, and thought great grieuances:
+<list>
+                  <item>1. That of the Innes, and hosteries.</item>
+                  <item>2. That of the Alehouses.</item>
+                  <item>3. That of gold and siluer thread.</item>
+               </list>
+            </p>
+            <p>My purpose is to strike them all
+<pb facs="tcp:8006:7"/>dead, and (that time may not bee lost) I will haue it done presently.</p>
+            <p>That concerning the Alehouses, I would haue to be left to the managing of the Iustices of peace, as before.</p>
+            <p>That of gold and siluer thread was most vilely executed, both for wrongs done to mens persons, as also for abuse in the stuffe; for it was a kinde of false coyne. I haue already freed the per<g ref="char:EOLhyphen"/>sons that were in prison: I will now also damne the Patent: And this may seeme in stead of a Pardon. All these three I will haue recalled by Procla<g ref="char:EOLhyphen"/>mation, and wish you to aduise of the fittest forme for that purpose.</p>
+            <p>I heare also, that there is another Bill amongst you against Informers: I desire you, my Lords, that as ye tender my honour, and the good of my peo<g ref="char:EOLhyphen"/>ple, yee will put that Bill to an end so soone as ye can, and at your next mee<g ref="char:EOLhyphen"/>ting to make it one of your first works.
+<pb facs="tcp:8006:8"/>For I haue already shewed my dislike of that kinde of people openly in Star<g ref="char:EOLhyphen"/>chamber, and it will bee the greatest ease both to mee, and all those that are neere about me at Court, that may be. For I remember, that since the begin<g ref="char:EOLhyphen"/>ning of this Parliament, <hi>Buckingham</hi> hath told me, he neuer found such qui<g ref="char:EOLhyphen"/>et and rest, as in this time of Parliament, from Proiectors and Informers, who at other times miserably vexed him at all houres.</p>
+            <p>And now I confesse, that when I loo<g ref="char:EOLhyphen"/>ked before vpon the face of the gouern<g ref="char:EOLhyphen"/>ment, I thought (as euery man would haue done) that the people were neuer so happie as in my time. For euen as at diuers times I haue looked vpon ma<g ref="char:EOLhyphen"/>ny of my Coppices, riding about them, and they appeared on the outside very thicke, and well growen vnto me: but when I entred into the midst of them, I found them all bitten within, and
+<pb facs="tcp:8006:8"/>full of plaines and bare spots, like an apple or peare, faire and smoothe with<g ref="char:EOLhyphen"/>out, but when ye cleaue it asunder, yee finde it rotten at the heart: euen so this Kingdome, the externall gouernment being as good as euer it was, and I am sure as learned Iudges as euer it had (and I hope, as honest) administring iustice within it; and for peace, both at home and abroade, I may truely say, more setled, and longer lasting, then e<g ref="char:EOLhyphen"/>uer any before, together with as great plenty as euer: so as it was to bee thought, that euery man might sit in safety vnder his owne vine, and his own figge-tree: Yet I am ashamed, and it makes my haire stand vpright, to con<g ref="char:EOLhyphen"/>sider, how in this time my people haue beene vexed, and polled by the vile exe<g ref="char:EOLhyphen"/>cution of Proiects, Patents, Billes of Conformity, and such like, which, be<g ref="char:EOLhyphen"/>sides the trouble of my people, haue more exhausted their purses, then Sub<g ref="char:EOLhyphen"/>sidies
+<pb facs="tcp:8006:9"/>would haue done.</p>
+            <p>Now, my Lords, before I go hence, since God hath made mee the great Iudge of this Land vnder him: and that I must answer for the iustice of the same: I will therefore (according to my place) remember you of some things, though I would not teach you. For no mans knowledge can bee so good, but their memories will bee the better to be refreshed. And now because yee are comming to giue Iudgement, all which mooues from the King, that you may the better proceed, take into your care two things: First, to doe <hi>Bonum,</hi> Secondly, next to doe it <hi>Benè.</hi> I call <hi>Bo<g ref="char:EOLhyphen"/>num,</hi> when all is well prooued, where<g ref="char:EOLhyphen"/>upon ye iudge, for then ye builde vpon a sure foundation; And by <hi>Benè</hi> I vn<g ref="char:EOLhyphen"/>derstand, that ye proceed with all for<g ref="char:EOLhyphen"/>malitie and legalitie: wherein you haue fit occasion to aduise with the Iudges, who are to assist you with their opini<g ref="char:EOLhyphen"/>ons
+<pb facs="tcp:8006:9"/>in cases of that nature, and woe be to them, if they aduise you not well. So the ground being good, and the forme orderly, it will prooue a course, fitting this high Court of Parliament.</p>
+            <p>In Sentence ye are to obserue two parts: First, to recollect that which is worthy of iudging and censuring: And secondly to proceed against these, as a<g ref="char:EOLhyphen"/>gainst such like crimes properlie. Wee doubt there will bee many matters be<g ref="char:EOLhyphen"/>fore you, some complained of out of passion, and some out of iust cause of grieuance. Weigh both; but bee not caried away with the impertinent dis<g ref="char:EOLhyphen"/>courses of them, that name aswell in<g ref="char:EOLhyphen"/>nocent men, as guiltie. Let your Iudge<g ref="char:EOLhyphen"/>ments onely take hold of the guiltie: proceede iudiciallie, and spare none where yee finde iust cause to punish. But let your proceedings be according to law: and remember, that lawes haue not their eies in their neckes, but in
+<pb facs="tcp:8006:10"/>their foreheads. For the morall reason of the punishment of vices in all king<g ref="char:EOLhyphen"/>domes and common-wealthes is, be<g ref="char:EOLhyphen"/>cause of the breach of lawes standing in force, for none can bee punished for breach of Lawes by predestination, be<g ref="char:EOLhyphen"/>fore they be made.</p>
+            <p>There is yet one particular, which I am to remember you of. I heare that Sir <hi>Henry Yeluerton</hi> (who is now in the Tower, vpon a Sentence giuen in the Starchāber against him, for deceiuing my trust) is touched concerning a war<g ref="char:EOLhyphen"/>rant dormant, which he made while he was my Atturney: the which my Lo. Treasurer heere, refused to set his hand vnto, like an honest man, when it was brought vnto him. I protest, I neuer heard of this warrant dormant before, and I hold it as odious a matter, as any is before you: and if, for respect to me, ye haue forborne to meddle with him in examination, because hee is my pri<g ref="char:EOLhyphen"/>soner,
+<pb facs="tcp:8006:10"/>I doe now heere freely remit him vnto you, and put him into your hands.</p>
+            <p>And this is all I haue to say vnto you, at this time; wishing you to proceede iustly and noblie, according to the or<g ref="char:EOLhyphen"/>ders of your House: and I pray God to blesse you: and yee may assure your selues of my assistance; wishing that what I haue said this day amongst you, may bee entred into the Records of this House.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON Printed by BONHAM NORTON, and IOHN BILL, Printers to the Kings most Excellent Maiestie. 1621.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
